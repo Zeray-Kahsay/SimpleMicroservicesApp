@@ -138,3 +138,4 @@ C:\Users\Eier\microservices\PlatformService\obj\Debug\net8.0\refint\PlatformServ
 C:\Users\Eier\microservices\PlatformService\obj\Debug\net8.0\PlatformService.pdb
 C:\Users\Eier\microservices\PlatformService\obj\Debug\net8.0\PlatformService.genruntimeconfig.cache
 C:\Users\Eier\microservices\PlatformService\obj\Debug\net8.0\ref\PlatformService.dll
+C:\Users\Eier\microservices\PlatformService\obj\Debug\net8.0\PlatformService.sourcelink.json
